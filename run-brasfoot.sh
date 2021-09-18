@@ -1,2 +1,2 @@
-cd ~/bf2020lx/
-java -jar bf2020.jar
+cd ~/bf2021lx/
+java -jar bf2021.jar
